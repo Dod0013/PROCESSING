@@ -1,0 +1,13 @@
+size(1000,1000)
+fill(255,0,0)
+ellipse(300,100,200,200)#red
+fill(0,255,0)
+ellipse(300,300,200,200)#grin
+fill(0,0,255)
+ellipse(100,100,200,200)#blue
+fill(255,255,0)
+ellipse(500,300,200,200)#salatoviy
+fill(0,255,255)
+ellipse(500,500,200,200)#gluboy
+fill(255,0,255)
+ellipse(100,300,200,200)#pink
